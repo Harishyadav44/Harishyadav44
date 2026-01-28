@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Harish 👋
 
-<!--
-**Harishyadav44/Harishyadav44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student who enjoys building practical projects using Python.
 
-Here are some ideas to get you started:
+### 🔧 Skills & Interests
+- Python
+- Machine Learning
+- Computer Vision
+- Streamlit & GUI Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- Handwritten Digit Recognition (CNN)
+- Fake Job Posting Detector
+- Face Emotion Recognition
+- Face Recognition System
+- 2D Airplane Game
+
+### 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/harish-yadav-3b18b9253/
