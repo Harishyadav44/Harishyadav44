@@ -16,4 +16,4 @@ I'm a Computer Science student who enjoys building practical projects using Pyth
 - 2D Airplane Game
 
 ### 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/harish-yadav-3b18b9253/
+- LinkedIn: https://www.linkedin.com/in/harish-kumar-3b18b9253/
