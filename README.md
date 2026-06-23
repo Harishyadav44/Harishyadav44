@@ -14,6 +14,7 @@ I'm a Computer Science student who enjoys building practical projects using Pyth
 - Face Emotion Recognition
 - Face Recognition System
 - 2D Airplane Game
+- Generative AI Paper Pilot
 
 ### 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/harish-kumar-3b18b9253/
